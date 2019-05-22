@@ -1,0 +1,2 @@
+# script
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6f3634f806434b2293186250e3d3c34c)](https://app.codacy.com/app/luyiping1011/script?utm_source=github.com&utm_medium=referral&utm_content=glazec/script&utm_campaign=Badge_Grade_Dashboard)
